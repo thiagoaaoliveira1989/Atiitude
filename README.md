@@ -1,2 +1,2 @@
 ﻿# atitudeglass
-https:atitudeglass.com
+https://atitudeglass.com
